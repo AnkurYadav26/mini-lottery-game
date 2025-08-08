@@ -45,6 +45,8 @@ To run the project in development mode with hot-module reloading:
 ```bash
 npm run dev
 
+```
+
 🛠️ Technologies Used
 React - A JavaScript library for building user interfaces.
 
