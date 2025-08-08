@@ -44,3 +44,10 @@ To run the project in development mode with hot-module reloading:
 
 ```bash
 npm run dev
+
+🛠️ Technologies Used
+React - A JavaScript library for building user interfaces.
+
+Vite - A fast front-end build tool that provides a lightning-fast development experience.
+
+ESLint - A static code analysis tool for identifying problematic patterns found in JavaScript code.
